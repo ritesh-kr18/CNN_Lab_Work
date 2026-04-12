@@ -1,0 +1,21 @@
+# Mac system files
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+
+# Data files (large datasets)
+data/
+
+# Virtual environment
+venv/
+.env/
+
+# Logs
+*.log
+
+# PDFs (optional)
+*.pdf
